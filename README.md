@@ -8,7 +8,7 @@
 
 ## Ссылка на приложение
 
-[Собранное приложение](https://github.com/mrRicochet/Scaner/raw/master/app/build/outputs/apk/debug/geekbrainscan.apk)
+[Собранное приложение](https://github.com/mrRicochet/Scaner/tree/master/app/build/outputs/apk/debug/geekbrainscan.apk)
 
 Текстовую часть проекта можно найти в папке DOC
 
